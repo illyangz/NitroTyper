@@ -61,3 +61,4 @@ This game was initially inspired by the basic functionalities demonstrated in a 
 ## Contributions
 
 Contributions and suggestions are welcome! Feel free to submit issues or pull requests to help improve and expand this game.
+# NitroTyper
